@@ -1,0 +1,19 @@
+PostgreSQL - Septiembre 2023
+--------------------------------
+
+Instalacion PostgreSQL
+--------------------------------
+https://www.youtube.com/watch?v=RgP1njsQO0g&t=462s
+
+cargar datos
+------------
+https://www.youtube.com/watch?v=w9kibRWlQQg&list=PLici-2x61p11_NE-WxlkGN0sV5eNIh8n9&index=4
+
+
+conectar excel a postgre
+------------------------
+https://www.youtube.com/watch?v=LJqgLbrDq4M
+
+conectar power bi a postgreSQL
+------------------------------
+https://www.youtube.com/watch?v=LZPS_zHnJss
